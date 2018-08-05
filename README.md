@@ -9,7 +9,9 @@ This is a free open source Android application for recording and editing sounds,
 
 Screenshots
 ============
-<img src="https://user-images.githubusercontent.com/42110501/43684916-dccf4a88-98c6-11e8-9233-bc5df49d367f.png" width=761 height=480>
+<img src="https://user-images.githubusercontent.com/42110501/43684916-dccf4a88-98c6-11e8-9233-bc5df49d367f.png" width=480 height=800>
+<img src="https://user-images.githubusercontent.com/42110501/43684981-1764427e-98c8-11e8-908f-b9f0831e28f7.png" width=480 height=800>
+<img src="https://user-images.githubusercontent.com/42110501/43684982-179a2e8e-98c8-11e8-9fb1-ed811b569f62.png" width=480 height=800>
 
 Features
 =========
