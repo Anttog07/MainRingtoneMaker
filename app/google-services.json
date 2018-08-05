@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "286626240667",
+    "firebase_url": "https://mainringtonemaker.firebaseio.com",
+    "project_id": "mainringtonemaker",
+    "storage_bucket": "mainringtonemaker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286626240667:android:7516c7f6c350c784",
+        "android_client_info": {
+          "package_name": "com.appsworld.ringtone.maker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286626240667-rqia80ctv5ke8jeau92i2j3gii48iihr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsworld.ringtone.maker",
+            "certificate_hash": "6183f60f5f0e6969ac9e7e3a7c6b39fd4b0941d8"
+          }
+        },
+        {
+          "client_id": "286626240667-nvim8o3f96cpcg73vcs6o03mhhmug1e2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqwP0MdH5xfWyors_OSa36H5ppnoeztfY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286626240667-nvim8o3f96cpcg73vcs6o03mhhmug1e2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
